@@ -1,0 +1,6 @@
+{
+  "bootstrap_icons": ["https://github.com/twbs/icons/releases/download/v1.11.3/bootstrap-icons-1.11.3.zip", "folder"],
+  "bootstrap": ["https://github.com/twbs/bootstrap/releases/download/v5.3.3/bootstrap-5.3.3-dist.zip", "folder"],
+  "jquery": ["https://code.jquery.com/jquery-3.6.4.min.js", "file", true],
+  "enigmarimu": ["https://rimueirnarn.github.io/package-snapshot/enigmarimu.js.zip", "folder"]
+}

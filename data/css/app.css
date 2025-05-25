@@ -1,0 +1,48 @@
+:root {
+  --primary: #9FB3DF;
+  --secondary: #BDDDE4;
+  /* --highlight: #9EC6F3; */
+  --btn-operator: #9ec6f3;
+  --highlight: #fff1d5
+
+  /* --font-family: ; */
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  /* font-size: var(--font-size); */
+  /* font-family: var(--font-family); */
+  /* background-color: rgba(0, 0, 0, 0); */
+  background-color: var(--secondary);
+  /* overflow: hidden; */
+  transition: all;
+}
+
+.bg--primary {
+  background-color: var(--primary);
+}
+
+.bg--secondary {
+  background-color: var(--secondary);
+}
+
+.bg--btn {
+  background-color: var(--btn-operator);
+}
+
+.bg--btn:hover {
+  background-color: var(--highlight);
+}
+
+.bg--highlight {
+  background-color: var(--highlight);
+}
+
+.--highlight {
+  color: var(--highlight)
+}

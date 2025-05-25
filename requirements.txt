@@ -1,0 +1,7 @@
+pywebview
+argh
+sqlite-database
+requests
+tqdm
+python-dotenv
+https://github.com/RimuEirnarn/colorful_string/archive/refs/tags/v0.1.4.tar.gz
